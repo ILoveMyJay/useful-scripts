@@ -1,0 +1,7 @@
+# YouTube视频链接列表
+# 每行一个链接，以#开头的行会被忽略
+
+# 示例视频
+https://www.youtube.com/watch?v=-HOzOBmQ5ro
+https://www.youtube.com/watch?v=_EqUR0dYGtE
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
